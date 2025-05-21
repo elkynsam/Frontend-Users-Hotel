@@ -1,1 +1,2 @@
-# Frontend-Users-Hotel
+# Frontend-ManageMyStay
+Repository to frontend of ManageMyStay
